@@ -37,8 +37,11 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 
+```
 Developed By: MUBARAK R
 Register Number: 212224220066
+
+```
 
 
 ## i)Original image
